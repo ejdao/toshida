@@ -1,5 +1,5 @@
 /*
- * Public API Surface of @toshida/components/fields
+ * Public API Surface of @toshida/ng-components/fields
  */
 
 export * from './error/equals.pipe';
